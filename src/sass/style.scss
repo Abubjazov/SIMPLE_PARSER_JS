@@ -1,0 +1,25 @@
+@import 'libs/bootstrap-reboot.min';
+@import 'libs/fonts';
+@import 'libs/tiny-slider';
+@import 'libs/animate.min';
+
+@import 'base/variables';
+
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
+
+@import 'blocks/container';
+@import 'blocks/header';
+@import 'blocks/promo';
+@import 'blocks/advantages';
+@import 'blocks/consultation';
+@import 'blocks/carousel';
+@import 'blocks/catalog';
+@import 'blocks/reviews';
+@import 'blocks/footer';
+
+@import 'blocks/buttons';
+@import 'blocks/forms';
+@import 'blocks/modal';
+@import 'blocks/pageup';

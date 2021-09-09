@@ -1,0 +1,28 @@
+.consultation {
+    min-height: 680px;
+    padding: 100px 0 108px 0;
+    background: url(../img/bg_2.jpg) center (center/cover) no-repeat;
+    &__header {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 54px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+    &__desc {
+        margin-top: 8px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .error {
+        box-shadow: 1px 1px 10px $main-color;
+    }
+    label.error {
+        color:#FFFFFF; 
+        box-shadow: none;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+}

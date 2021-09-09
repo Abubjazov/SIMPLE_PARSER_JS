@@ -1,0 +1,31 @@
+{
+  "name": "uber2",
+  "version": "1.0.0",
+  "description": "![HTML](icons/HTML5.svg) ![CSS](icons/CSS3.svg) ![CSS](icons/SASS.svg) ![CSS](icons/BOOTSTRAP.svg) ![CSS](icons/JavaScript.svg)\r # UBER\r ## Сайт свёрстанный при помощи HTML SASS JavaScript и BootStrapGrid\r ## Адаптирован под различные устройства",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abubjazov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.39.0"
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ],
+  "dependencies": {}
+}
